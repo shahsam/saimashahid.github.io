@@ -1,1 +1,6 @@
-I am a postdoctoral researcher at ohio State University.
+
+---
+layout: default
+title: Home
+---
+I am a postdoctoral researcher at Ohio State University.
