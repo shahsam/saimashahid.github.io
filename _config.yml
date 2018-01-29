@@ -1,0 +1,14 @@
+---
+safe        : true
+lsi         : false
+permalink   : none
+markdown    : kramdown
+
+title:            'Saima Shahid'
+tagline:          ''
+description:      'Postdoctoral researcher, Ohio State University. <a href="https://twitter.com/psaima">@psaima</a>'
+url:              shahidsaima.com
+
+author:
+  name:           'Saima Shahid'
+  url:            https://twitter.com/psaima
