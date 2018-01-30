@@ -1,10 +1,9 @@
 ---
 safe        : true
+lsi         : false
+permalink   : false
 markdown    : kramdown
 
 title:            'Saima Shahid'
 tagline:          ''
 url:              shahidsaima.com
-
-
-theme: jekyll-theme-minimal
