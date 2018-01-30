@@ -13,7 +13,7 @@
 
 7. Shahid S, Axtell MJ (2013) [Identification and annotation of small RNA genes using ShortStack](http://dx.doi.org/10.1016/j.ymeth.2013.10.004). Methods 67(1), 20–27.
 
-8. *Amborella* Genome Project (including Shahid S and Axtell MJ) (2013) [The Amborella genome and the evolution of flowering plants](http:dx.doi.org/10.1126/science.1241089). Science 342(6165), 1241089.
+8. *Amborella* Genome Project (2013) [The *Amborella* genome and the evolution of flowering plants](http:dx.doi.org/10.1126/science.1241089). Science 342(6165), 1241089.
 
 9. Azad A, Shahid S, Noman N, Lee H (2011) [Prediction of plant promoters based on hexamers and random triplet pair analysis](http://dx.doi.org/10.1186/1748-7188-6-19). Algorithms for Molecular Biology 6(1), 19.
 
