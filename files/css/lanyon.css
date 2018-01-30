@@ -326,7 +326,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #268bd2;
 }
 .page-title,
 .post-title {
@@ -460,7 +460,7 @@ a.pagination-item:hover {
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #268bd2;
 }
 
 /* Orange */
