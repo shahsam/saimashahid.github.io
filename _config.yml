@@ -1,7 +1,5 @@
 ---
 safe        : true
-lsi         : false
-permalink   : false
 markdown    : kramdown
 
 #site settings
