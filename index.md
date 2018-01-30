@@ -2,4 +2,4 @@
 ---
 ---
 
-I am a postdoctoral researcher at Ohio State University.
+I am a plant biologist studying regulatory DNA/ RNA molecules that can be mobile within and across species. 
