@@ -4,6 +4,14 @@ lsi         : false
 permalink   : false
 markdown    : kramdown
 
-title:            'Saima Shahid'
-tagline:          ''
+#site settings
+title       : "Saima Shahid"
+name        : &name "Saima Shahid"
+description : &description "Postdoctoral researcher at Ohio State University"
 url:              shahidsaima.com
+
+#Site author
+author:
+  name      : "Saima Shahid"
+  avatar    : "profile.jpg"
+  bio       : "Postdoctoral researcher at Ohio State University"
