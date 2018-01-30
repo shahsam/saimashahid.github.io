@@ -1,7 +1,9 @@
-2018
-Shahid S, Kim G, Johnson NR, Wafula EK, Wang F, Coruh C, Bernal-Galeano V, Phifer T, dePamphilis CW, Westwood JH and Axtell MJ (2018) MicroRNAs from the parasitic plant Cuscuta campestris target host messenger RNAs. Nature 553, 82-85. DOI: http://dx.doi.org/10.1038/nature25027
+_2018_
+
+Shahid S, Kim G, Johnson NR, Wafula EK, Wang F, Coruh C, Bernal-Galeano V, Phifer T, dePamphilis CW, Westwood JH and Axtell MJ (2018) MicroRNAs from the parasitic plant Cuscuta campestris target host messenger RNAs. Nature 553, 82-85. [DOI](http://dx.doi.org/10.1038/nature25027)
 
 2017
+
 Islam MS et al. (including Shahid S and Alam M) (2017) Comparative genomics of two jute species and insight into fiber biogenesis. Nature plants 3, 16223. DOI: http://dx.doi.org/10.1038/nplants.2016.223
 
 2016
