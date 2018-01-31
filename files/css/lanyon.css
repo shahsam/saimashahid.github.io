@@ -47,7 +47,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Crimson Text", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #3182bd;
+  color: #000000;
   letter-spacing: -.025rem;
 }
 
@@ -326,7 +326,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #268bd2;
+  color: #000000;
 }
 .page-title,
 .post-title {
