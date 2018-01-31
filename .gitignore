@@ -1,2 +1,5 @@
-# 
-_site/
+#
+_site/*
+
+#Ignore .DS_Store
+.DS_Store
