@@ -4,9 +4,38 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
+  <div class="sidebar-logo">
+      <img src="/images/profile.JPG" />
+  </div>
+
+  <div id="contact-list" style="text-align:center">
+
+      {% if site.author.linkedin %}
+        <a href="https://linkedin.com/in/{{ site.author.github }}">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square-o fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x"></i>
+          </span>
+        </a>
+      {% endif %}
+  </div>
+
+  <div id="contact-list" style="text-align:center">
+
+    {% if site.author.google_scholar %}
+      <a href="{{ site.author.google_scholar }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-google fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="sidebar-item" style="text-align: center">
     <p>{{ site.description }}</p>
   </div>
+
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
@@ -25,7 +54,7 @@
     {% endfor %}
     {% endcomment %}
 
-       <a class="sidebar-nav-item" href="/publications.html">Publications</a>
+        <a class="sidebar-nav-item" href="/publications.html">Publications</a>
 
   </nav>
 

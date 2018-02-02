@@ -1,15 +1,20 @@
 ---
 safe        : true
 markdown    : kramdown
+highlighter : rouge
 
 #site settings
 title       : "Saima Shahid"
 name        : &name "Saima Shahid"
-description : &description "Postdoctoral researcher at Ohio State University"
-url:              shahidsaima.com
+description : "Postdoctoral researcher at Ohio State University"
+url         : shahidsaima.com
 
 #Site author
 author:
   name      : "Saima Shahid"
-  avatar    : "profile.jpg"
+  avatar    : "/images/profile.JPG"
   bio       : "Postdoctoral researcher at Ohio State University"
+  linkedin  : http://www.linkedin.com/in/saima-shahid/
+  google_scholar  : http://scholar.google.com/citations?user=lez4bcIAAAAJ&hl=en
+  orcid     : http://orcid.org/0000-0001-9385-0925
+  twitter   : psaima
