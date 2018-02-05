@@ -7,7 +7,9 @@
   <div class="sidebar-logo">
       <img src="/images/profile.JPG" />
   </div>
-
+  <div class="sidebar-item" style="text-align: center">
+    <p>{{ site.description }}</p>
+  </div>
   <div id="contact-list" style="text-align:center">
 
       {% if site.author.linkedin %}
@@ -18,23 +20,43 @@
           </span>
         </a>
       {% endif %}
+      {% if site.author.google_scholar %}
+        <a href="{{ site.author.google_scholar }}">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square-o fa-stack-2x"></i>
+            <i class="fa fa-google fa-stack-1x"></i>
+          </span>
+        </a>
+      {% endif %}
   </div>
 
   <div id="contact-list" style="text-align:center">
 
-    {% if site.author.google_scholar %}
-      <a href="{{ site.author.google_scholar }}">
+    {% if site.author.orcid %}
+      <a href="{{ site.author.orcid }}">
+        <span class="fa-stack fa-lg">
+          <img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" width="32" height="32" />
+        </span>
+      </a>
+    {% endif %}
+    {% if site.author.research_gate %}
+      <a href="{{ site.author.research_gate }}">
+        <span class="fa-stack fa-lg">
+          <img src="/images/RG_square_green.jpg" />
+        </span>
+      </a>
+    {% endif %}
+    {% if site.author.twitter %}
+      <a href="https://twitter.com/{{ site.author.twitter }}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-google fa-stack-1x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
         </span>
       </a>
     {% endif %}
   </div>
 
-  <div class="sidebar-item" style="text-align: center">
-    <p>{{ site.description }}</p>
-  </div>
+
 
 
   <nav class="sidebar-nav">
