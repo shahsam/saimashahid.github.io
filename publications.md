@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 
-1. Shahid S, Kim G, Johnson NR, Wafula EK, Wang F, Coruh C, Bernal-Galeano V, Phifer T, dePamphilis CW, Westwood JH and Axtell MJ (2018) [MicroRNAs from the parasitic plant *Cuscuta* *campestris* target host messenger RNAs](http://dx.doi.org/10.1038/nature25027). *Nature* 553, 82-85. Commentary by [Martinez & Krause] (http://ncri.amegroups.com/article/view/4462), [Jianqiang Wu] (https://www.sciencedirect.com/science/article/pii/S1674205218300546)
+1. Shahid S, Kim G, Johnson NR, Wafula EK, Wang F, Coruh C, Bernal-Galeano V, Phifer T, dePamphilis CW, Westwood JH and Axtell MJ (2018) [MicroRNAs from the parasitic plant *Cuscuta* *campestris* target host messenger RNAs](http://dx.doi.org/10.1038/nature25027). *Nature* 553, 82-85. Commentary by [Martinez & Krause](http://ncri.amegroups.com/article/view/4462), [Jianqiang Wu](https://www.sciencedirect.com/science/article/pii/S1674205218300546)
 
 2. Islam MS et al. (including Shahid S and Alam M) (2017) [Comparative genomics of two jute species and insight into fiber biogenesis](http://dx.doi.org/10.1038/nplants.2016.223). *Nature plants* 3, 16223.
 
