@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 
-12. Choudury S, **Shahid S**, Cuerda-Gil D, Panda K, Cullen A, Ashraf QUA, Sigman MJ, McCue AD, Slotkin RK (2019) [The RNA export factor ALY1 enables genome-wide RNA-directed DNA methylation](http://dx.doi.org/10.1105/tpc.18.00624). *The Plant Cell*. 
+1. Choudury S, **Shahid S**, Cuerda-Gil D, Panda K, Cullen A, Ashraf QUA, Sigman MJ, McCue AD, Slotkin RK (2019) [The RNA export factor ALY1 enables genome-wide RNA-directed DNA methylation](http://dx.doi.org/10.1105/tpc.18.00624). *The Plant Cell*. 
 
 1. **Shahid S**, Kim G, Johnson NR, Wafula EK, Wang F, Coruh C, Bernal-Galeano V, Phifer T, dePamphilis CW, Westwood JH and Axtell MJ (2018) [MicroRNAs from the parasitic plant *Cuscuta* *campestris* target host messenger RNAs](http://dx.doi.org/10.1038/nature25027). *Nature* 553, 82-85. Commentaries by [Martinez & Krause](http://ncri.amegroups.com/article/view/4462), [Jianqiang Wu](https://www.sciencedirect.com/science/article/pii/S1674205218300546). Also highlighted in [*Nature Reviews Genetics*](https://www.nature.com/articles/nrg.2018.3).
 
