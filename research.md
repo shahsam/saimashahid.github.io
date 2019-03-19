@@ -3,8 +3,8 @@ title:
 layout: page
 ---
 
-
-## _De novo_ initiation of epigenetic silencing ##
+ _De novo_ initiation of epigenetic silencing
+ --------------------------------------------
 
 Transposable Elements (TEs) are DNA fragments that can mobilize and mutate the genome, causing hundreds of diseases and progression of certain types of cancer. To prevent new mutations, the cell ‘flags’ TE regions with chemical modifications such as methylation of DNA (in plants and mammals), and histone H3 lysine 9 residues (conserved from yeast to humans). These modifications mark TE regions for long-term ‘constitutive heterochromatin’ transcriptional silencing and are epigenetically passed to daughter cells after division to prevent reactivation.
 <div class="row">
