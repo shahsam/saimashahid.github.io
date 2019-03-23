@@ -2,7 +2,7 @@
 title: Research
 layout: page
 ---
-I am broadly interested in the the noncoding genome, which includes small RNA genes, promoter regions, and transposable elements (TEs). I use both bioinformatics and wet lab approaches to understand how such noncoding elements function and regulate plant growth, development and stress response. Below are some of my current research projects.
+I am broadly interested in the noncoding genome, which includes small RNA genes, promoter regions, and transposable elements (TEs). I use both bioinformatics and wet lab approaches to understand how such noncoding elements function and regulate plant growth, development and stress response. Below are some of my current research projects.
 
 **Initiation of epigenetic silencing**
 
