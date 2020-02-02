@@ -17,6 +17,6 @@ Transposable Elements (TEs) are DNA fragments that can mobilize and mutate the g
 
 Plants have become a premier system to molecularly dissect heterochromatin formation, due to intense research on the RNA-directed DNA methylation (RdDM) pathway. In the model plant _Arabidopsis_, de novo RdDM of new TEs occurs in three distinct stages – initiation, establishment and maintenance. Multiple studies have addressed how heterochromatin is epigenetically maintained, but little is known about how cells initially detect and silence newly inserted TEs without prior chromatin marks. This project aims to understand the mechanism and molecular players underlying _de novo_ initiation of TE silencing in _Arabidopsis_. 
 
-**Determining the role of epigenetics in Soybean aphid virulence to aphid-resistant plants**
+**Role of epigenetics in Soybean aphid virulence to aphid-resistant plants**
 
 Growing evidence suggests an important role for DNA methylation in host-pathogen and host-parasite interactions, even though the mechanism and the implication of such interactions are poorly characterized. We aim to determine the role of DNA methylation in soybean aphid (Aphis glycines) virulence against host plants. This project is a collaboration with [Andrew Michel](https://entomology.osu.edu/our-people/andrew-michel) and [Ashley Yates-Stewart](https://entomology.osu.edu/our-people/ashley-yates-stewart) at the Ohio State University. 
