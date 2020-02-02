@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "How do plants recognize transposable elements and initiate their silencing?"
 ---
 Transposable Elements (TEs) are DNA fragments that can mobilize and mutate the genome, causing hundreds of diseases and progression of certain types of cancer. To prevent new mutations, the cell ‘flags’ TE regions with chemical modifications such as methylation of DNA (in plants and mammals), and histone H3 lysine 9 residues (conserved from yeast to humans). These modifications mark TE regions for long-term ‘constitutive heterochromatin’ transcriptional silencing and are epigenetically passed to daughter cells after division to prevent reactivation.
 <div class="row">
