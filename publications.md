@@ -3,6 +3,10 @@ title: Publications
 layout: page
 ---
 For a full list of publications see [google scholar](https://scholar.google.com/citations?user=lez4bcIAAAAJ&hl=en). 
+1. __Shahid S__, Slotkin RK (2020) {The current revolution in transposable element biology enabled by long reads (https://doi.org/10.1016/j.pbi.2019.12.012) *Current Opinion in Plant Biology* 54, 49-56.
+
+1. Yang Z, Wafula EK, Kim G, __Shahid S__, McNeal JR, Ralph PE, Timilsena PR, Yu WB, Kelly EA, Zhang H, Person TN (2019) [Convergent horizontal gene transfer and cross-talk of mobile nucleic acids in parasitic plants](https://doi.org/10.1038/s41477-019-0458-0). *Nature plants* 5(9), 991-1001.
+
 1. Choudury S, __Shahid S__, Cuerda-Gil D, Panda K, Cullen A, Ashraf QUA, Sigman MJ, McCue AD, Slotkin RK (2019) [The RNA export factor ALY1 enables genome-wide RNA-directed DNA methylation](http://dx.doi.org/10.1105/tpc.18.00624). *The Plant Cell*. 
 
 1. __Shahid S__, Kim G, Johnson NR, Wafula EK, Wang F, Coruh C, Bernal-Galeano V, Phifer T, dePamphilis CW, Westwood JH and Axtell MJ (2018) [MicroRNAs from the parasitic plant *Cuscuta* *campestris* target host messenger RNAs](http://dx.doi.org/10.1038/nature25027). *Nature* 553, 82-85. Commentaries by [Martinez & Krause](http://ncri.amegroups.com/article/view/4462), [Jianqiang Wu](https://www.sciencedirect.com/science/article/pii/S1674205218300546). Also highlighted in [*Nature Reviews Genetics*](https://www.nature.com/articles/nrg.2018.3).
