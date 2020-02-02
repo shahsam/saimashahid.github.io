@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 For a full list of publications see [google scholar](https://scholar.google.com/citations?user=lez4bcIAAAAJ&hl=en). 
-1. __Shahid S__, Slotkin RK (2020) {The current revolution in transposable element biology enabled by long reads (https://doi.org/10.1016/j.pbi.2019.12.012) *Current Opinion in Plant Biology* 54, 49-56.
+1. __Shahid S__, Slotkin RK (2020) [The current revolution in transposable element biology enabled by long reads (https://doi.org/10.1016/j.pbi.2019.12.012) *Current Opinion in Plant Biology* 54, 49-56.
 
 1. Yang Z, Wafula EK, Kim G, __Shahid S__, McNeal JR, Ralph PE, Timilsena PR, Yu WB, Kelly EA, Zhang H, Person TN (2019) [Convergent horizontal gene transfer and cross-talk of mobile nucleic acids in parasitic plants](https://doi.org/10.1038/s41477-019-0458-0). *Nature plants* 5(9), 991-1001.
 
