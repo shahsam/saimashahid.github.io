@@ -7,7 +7,7 @@ I am broadly interested in the noncoding genome, which includes small RNA genes,
 <div class="row">
     <div class="col-md-12">
         <div class="col-xs-offset-1 col-md-10">
-            <a = href="te.html"><img src="/images/Rddm-01.png"/>
+            <a href="te.html"><img src="/images/Rddm-01.png"/ ></a>
         </div>
     </div>
 </div>
