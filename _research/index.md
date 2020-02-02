@@ -3,7 +3,7 @@ layout: page
 ---
 I am broadly interested in the noncoding genome, which includes small RNA genes, promoter regions, and transposable elements (TEs). I use both bioinformatics and wet lab approaches to understand how such noncoding elements function and regulate plant growth, development and stress response. Below are some of my current research projects.
 
-[**How do plants recognize transposable elements and initiate their silencing?**] [te]
+[**How do plants recognize transposable elements and initiate their silencing?**][te]
 
 **Role of epigenetics in Soybean aphid virulence to aphid-resistant plants**
 
