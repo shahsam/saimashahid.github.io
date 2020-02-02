@@ -14,8 +14,16 @@ I am broadly interested in the noncoding genome, which includes small RNA genes,
     </div>
 </div>
 
-[**Role of epigenetics in Soybean aphid virulence to aphid-resistant plants**] [aphid]
-
+[**Role of epigenetics in Soybean aphid virulence to aphid-resistant plants**][aphid]
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-xs-offset-1 col-md-10">
+            <a href="/research/aphid.html">
+                <img src="/images/aphid.png">
+            </a>
+        </div>
+    </div>
+</div>
 
 [te]: /research/te.html
 [aphid]: /research/aphid.html
