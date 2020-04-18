@@ -8,7 +8,7 @@ I am a plant biologist interested in mobile RNA/DNA molecules that regulate gene
 ---
 
 
-[ddpsc]:https://www.danforthcenter.org/scientists-research/principal-investigators/keith-slotkin/
+[ddpsc]:https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/
 [axtell_lab]: https://sites.psu.edu/axtell/
 [du]:http://www.du.ac.bd/faculty/faculty_details/BCH/1520/
 [ss]:https://dx.doi.org/10.1016/j.ymeth.2013.10.004
